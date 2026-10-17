@@ -1,0 +1,17 @@
+PASS: Starts on the welcome screen
+PASS: Right input moves the kitten right
+PASS: Left input moves the kitten left
+PASS: Space launches a jump
+PASS: Holding jump does not add air jumps
+PASS: Kitten lands on a platform after jumping
+PASS: A stepped-on platform flashes and collapses
+PASS: Collects stars across consecutive platforms
+PASS: Score includes star bonuses and distance
+PASS: Seven rainbow ribbons grow after star collection
+PASS: Pause freezes movement
+PASS: Leaving the course produces the retry screen
+PASS: Best score persists after falling
+PASS: Instant retry resets the run
+PASS: Retry clears every rainbow trail
+PASS: Repeated retries remain valid
+PASS: No runtime errors during verification
